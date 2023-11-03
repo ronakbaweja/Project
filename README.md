@@ -1,8 +1,5 @@
 # Project Title
 Portfolio website as an outcome of Web Development Bootcamp BY GDSC.
-## Deployment
-
-Deployed this using GitHub pages. [Go to site](https://harshh18.github.io/Portfolio-Website/)
 ## Built With
 
 * HTML 5
