@@ -1,5 +1,5 @@
 # Project Title
-Portfolio website as an outcome of Web Development Bootcamp BY GDSC.
+This is a portfolio website built for one of my clients.
 ## Built With
 
 * HTML 5
